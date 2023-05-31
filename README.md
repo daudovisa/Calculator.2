@@ -1,4 +1,4 @@
 # Calculator.2
 
-logic - Daudov Isa/
+logic - Daudov Isa  
 design - Djamuev Magamed

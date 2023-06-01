@@ -9,7 +9,7 @@ class Main(Frame):
     def build(self): # создаем метку label для отображения кнопок и их расположения
         self.formula = "0"
         self.lbl = Label(text=self.formula, font=("Times New Roman", 21, "bold"), bg="#000", foreground="#FFF")
-        self.label.place(x=11, y=50)
+        self.lbl.place(x=11, y=50)
 
         buttons = [
             "C", "DEL", "*", "=",
